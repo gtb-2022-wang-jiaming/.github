@@ -20,6 +20,14 @@ I start my Thoughtwork's gtb training here!
 In my spare time, I have broad hobbies.
 Recently, I'm especially into movies and TV series.
 
-Like these days, I was following 'Euphoria' Season 2.
+Like these days, I was following *'Euphoria'* Season 2.
 
-Also, I went to Universal Studios Beijing and had a lot of fun there.
+![Alt text](/path/to/img.jpg)
+
+Also, I went to **Universal Studios Beijing** and have had so much fun there.
+
+![Alt text](/path/to/img.jpg)
+
+![Alt text](/path/to/img.jpg)
+
+![Alt text](/path/to/img.jpg)
