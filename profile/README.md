@@ -22,12 +22,12 @@ Recently, I'm especially into movies and TV series.
 
 Like these days, I was following *'Euphoria'* Season 2.
 
-![Alt text](/path/to/img.jpg)
+![pic0](profile/images/Euphoria-Season-2.jpeg）
 
 Also, I went to **Universal Studios Beijing** and have had so much fun there.
 
-![Alt text](/path/to/img.jpg)
+![pic1](profile/images/2511642906229_.pic.jpg)
 
-![Alt text](/path/to/img.jpg)
+![pic2](profile/images/2521642906230_.pic.jpg)
 
-![Alt text](/path/to/img.jpg)
+![pic3](profile/images/2531642906230_.pic.jpg)
