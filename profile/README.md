@@ -18,16 +18,17 @@
 I start my Thoughtwork's gtb training here!
 
 In my spare time, I have broad hobbies.
-Recently, I'm especially into movies and TV series.
+
+🍿Recently, I'm especially into movies and TV series.
 
 Like these days, I was following *'Euphoria'* Season 2.
 
-![pic0](profile/images/Euphoria-Season-2.jpeg）
+![pic0](https://github.com/gtb-2022-wang-jiaming/.github/blob/3f2202a6c7770323eb1506d9c8c358c9a430dda2/profile/images/Euphoria-Season-2.jpeg)
 
 Also, I went to **Universal Studios Beijing** and have had so much fun there.
 
-![pic1](profile/images/2511642906229_.pic.jpg)
+![pic1](images/2511642906229_.pic.jpg)🧙
 
-![pic2](profile/images/2521642906230_.pic.jpg)
+![pic2](images/2521642906230_.pic.jpg)
 
-![pic3](profile/images/2531642906230_.pic.jpg)
+![pic3](images/2531642906230_.pic.jpg)
